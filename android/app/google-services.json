@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "958314246278",
+    "project_id": "projectlearn284e",
+    "storage_bucket": "projectlearn284e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958314246278:android:7ab2cbf2b9fec82caa2107",
+        "android_client_info": {
+          "package_name": "com.example.stu_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958314246278-g466t6f4bmggdckijo5376qbb5th9b3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWnZ6UV3ACnsnRCXODrlDTfi2NyE3bnts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958314246278-g466t6f4bmggdckijo5376qbb5th9b3f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958314246278-pkhvp6san23dm81761leu8p40d317e4g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stuBuddy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
