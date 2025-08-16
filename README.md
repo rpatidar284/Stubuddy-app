@@ -55,7 +55,7 @@ Technologies used in this project:
 ## 📸 Screenshots  
 
 ### Create Account 
-<img src="https://github.com/rpatidar284/Stubuddy-app/issues/1" alt="Splash Screen" width="250"/>  
+<img src="assets/images/1/.jpg" alt="Splash Screen" width="250"/>  
 
 ### Login Screen 
 ![Login](assets/ss/1/.jpg)  
