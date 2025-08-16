@@ -55,33 +55,60 @@ Technologies used in this project:
 ## 📸 Screenshots  
 
 ### Create Account 
-<img src="assets/images/1.jpg" alt="Splash Screen" width="250"/>  
 
-### Login Screen 
-![Login](assets/ss/1/.jpg)  
-
-### Verify Email 
-![Verify Email](assets/ss/1/.jpg)  
+<p align="center">
+  <img src="assets/images/1.jpg" width="200"/>
+  <img src="assets/images/2.jpg"  width="200"/>
+  <img src="assets/images/3.jpg" width="200"/>
+</p> 
 
 ### Home Screen 
-![Home Screen](assets/ss/1/.jpg)  
+<p align="center">
+  <img src="assets/images/4.jpg" width="200"/>
+</p> 
 
 ### Timetable Screen  
-![Timetable](assets/ss/1/.jpg)  
+<p align="center">
+  <img src="assets/images/5.jpg" width="200"/>
+  <img src="assets/images/6.jpg"  width="200"/>
+</p> 
 
 ### ToDo List
-![ToDo](assets/ss/1/.jpg)  
+<p align="center">
+  <img src="assets/images/7.jpg" width="200"/>
+  <img src="assets/images/8.jpg"  width="200"/>
+  <img src="assets/images/9.jpg" width="200"/>
+</p> 
+<p align="center">
+  <img src="assets/images/10.jpg" width="200"/>
+  <img src="assets/images/11.jpg"  width="200"/>
+</p> 
 
 ### Attendance Tracking   
-![Attendance](assets/ss/1/.jpg)  
+<p align="center">
+  <img src="assets/images/12.jpg" width="200"/>
+  <img src="assets/images/13.jpg"  width="200"/>
+  <img src="assets/images/14.jpg" width="200"/>
+</p> 
 
 ### Split Bill  
-![Split Bill](assets/ss/1/.jpg)  
+<p align="center">
+  <img src="assets/images/15.jpg" width="200"/>
+  <img src="assets/images/16.jpg"  width="200"/>
+  <img src="assets/images/17.jpg" width="200"/>
+</p> 
   
 ### Calendar & Events  
-![Calendar](assets/ss/1/.jpg) 
+<p align="center">
+  <img src="assets/images/18.jpg" width="200"/>
+  <img src="assets/images/19.jpg"  width="200"/>
+</p> 
 
 ### MyGrades
-![### MyGrades](assets/ss/1/.jpg) 
+<p align="center">
+  <img src="assets/images/20.jpg" width="200"/>
+  <img src="assets/images/22.jpg"  width="200"/>
+  <img src="assets/images/23.jpg" width="200"/>
+</p> 
 
 ---
