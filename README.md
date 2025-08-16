@@ -34,7 +34,7 @@ Technologies used in this project:
 - [Flutter](https://flutter.dev/) (Dart)  
 - [GetX](https://pub.dev/packages/get) (State Management)  
 - [SQLite](https://www.sqlite.org/) (Database Integration)  
-- Node.js (Backend – planned)  
+- Firebase (Backend)  
 - Material Design  
 - Charts & Analytics  
 
@@ -52,32 +52,36 @@ Technologies used in this project:
 
 ---
 
-## 🤝 Contribute  
-
-This project is open for contributors!  
-
-1. Fork the repository  
-2. Create your feature branch (`git checkout -b feature/new-feature`)  
-3. Commit your changes (`git commit -m 'Add some feature'`)  
-4. Push to the branch (`git push origin feature/new-feature`)  
-5. Open a **Pull Request**  
-
-If you have suggestions or find issues, don’t hesitate to open an **Issue**.  
-
----
-
 ## 📸 Screenshots  
 
-_Add screenshots of your app here (Timetable, Attendance, Analytics, Calendar)._  
+### Create Account 
+![Create Account](assets/ss/1/.jpg)  
+
+### Login Screen 
+![Login](assets/ss/1/.jpg)  
+
+### Verify Email 
+![Verify Email](assets/ss/1/.jpg)  
+
+### Home Screen 
+![Home Screen](assets/ss/1/.jpg)  
+
+### Timetable Screen  
+![Timetable](assets/ss/1/.jpg)  
+
+### ToDo List
+![ToDo](assets/ss/1/.jpg)  
+
+### Attendance Tracking   
+![Attendance](assets/ss/1/.jpg)  
+
+### Split Bill  
+![Split Bill](assets/ss/1/.jpg)  
+  
+### Calendar & Events  
+![Calendar](assets/ss/1/.jpg) 
+
+### MyGrades
+![### MyGrades](assets/ss/1/.jpg) 
 
 ---
-
-## 📜 License  
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
-
----
-
-## 🙌 Credits  
-
-Developed with ❤️ by **Rahul**  
