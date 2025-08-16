@@ -42,14 +42,17 @@ Technologies used in this project:
 
 ## ⭐ Features  
 
-- 📅 **Smart Timetable** – Create and manage weekly class schedules  
+- 🔔 **Upcoming Classes** – Auto-fetch classes for the current day 
+- 📅 **Smart Timetable** – Create and manage weekly class schedules
+- 📝 **ToDo List** – Organize tasks, set priorities, and stay on top of assignments & deadlines   
 - 🎯 **Attendance Tracking** – Mark attendance, add notes, and view attendance history  
 - 📊 **Analytics Dashboard** – Visualize attendance trends with graphs and insights  
-- 🔔 **Upcoming Classes** – Auto-fetch classes for the current day  
 - 🗓 **Calendar & Events** – Add college events, deadlines, and reminders  
 - ✨ **User-friendly UI** – Simple, modern interface designed for students  
-- 📱 **Cross-platform** – Android supported, iOS support coming soon  
-
+- 📚 **MyGrades** – Track subject-wise marks, calculate GPA/CGPA, and monitor academic progress
+- 💵 **Split Bill** – Easily divide expenses among friends, calculate shares, and settle balances
+- 📱 **Cross-platform** – Android supported, iOS support coming soon
+ 
 ---
 
 ## 📸 Screenshots  
