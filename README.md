@@ -55,7 +55,7 @@ Technologies used in this project:
 ## 📸 Screenshots  
 
 ### Create Account 
-![Create Account](assets/ss/1/.jpg)  
+<img src="assets/ss/1/.jpg" alt="Splash Screen" width="250"/>  
 
 ### Login Screen 
 ![Login](assets/ss/1/.jpg)  
