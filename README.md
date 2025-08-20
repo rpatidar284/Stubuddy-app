@@ -81,6 +81,10 @@ You can download the most recent version of StuBuddy at [StuBuddy.app/download](
   <img src="assets/images/5.jpg" width="200"/>
   <img src="assets/images/6.jpg"  width="200"/>
 </p> 
+<p align="center">
+  <img src="assets/images/27.jpg" width="200"/>
+  <img src="assets/images/26.jpg"  width="200"/>
+</p> 
 
 ### ToDo List
 <p align="center">
@@ -118,6 +122,12 @@ You can download the most recent version of StuBuddy at [StuBuddy.app/download](
   <img src="assets/images/20.jpg" width="200"/>
   <img src="assets/images/22.jpg"  width="200"/>
   <img src="assets/images/23.jpg" width="200"/>
+</p> 
+
+### Profile
+<p align="center">
+  <img src="assets/images/25.jpg" width="200"/>
+  <img src="assets/images/24.jpg" width="200"/>
 </p> 
 
 ---
