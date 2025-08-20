@@ -33,8 +33,9 @@ Technologies used in this project:
 
 - [Flutter](https://flutter.dev/) (Dart)  
 - [GetX](https://pub.dev/packages/get) (State Management)  
-- [SQLite](https://www.sqlite.org/) (Database Integration)  
-- Firebase (Backend)  
+- [SQLite](https://www.sqlite.org/) (Database Integration)
+- [Figma](https://www.figma.com/) (Design)  
+- [Firebase](https://console.firebase.google.com) (Backend)  
 - Material Design  
 - Charts & Analytics  
 
