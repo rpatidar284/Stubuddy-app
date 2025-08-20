@@ -40,12 +40,6 @@ Technologies used in this project:
 
 ---
 
-## ⬇️ Download
-
-You can download the most recent version of StuBuddy at [StuBuddy.app/download](https://drive.google.com/file/d/1raza-IKWBuDR7rZXbksDtwlJq7gcuXCy/view?usp=drivesdk)
-
----
-
 ## ⭐ Features  
 
 - 🔔 **Upcoming Classes** – Auto-fetch classes for the current day 
@@ -59,6 +53,12 @@ You can download the most recent version of StuBuddy at [StuBuddy.app/download](
 - 💵 **Split Bill** – Easily divide expenses among friends, calculate shares, and settle balances
 - 📱 **Cross-platform** – Android supported, iOS support coming soon
  
+---
+
+## ⬇️ Download
+
+You can download the most recent version of StuBuddy at [StuBuddy.app/download](https://drive.google.com/file/d/1raza-IKWBuDR7rZXbksDtwlJq7gcuXCy/view?usp=drivesdk)
+
 ---
 
 ## 📸 Screenshots  
